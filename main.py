@@ -2,6 +2,7 @@ import os
 import sys
 from PIL import Image
 
+# the comment for the test branch
 
 try:
     input_folder = sys.argv[1]
